@@ -1,11 +1,9 @@
 path: ../final_split/ExDark
 
-# 修正后的数据集内部路径
 train: train
 val: val
 test: test  
 
-# Classes
 names:
   0: Bicycle
   1: Boat
