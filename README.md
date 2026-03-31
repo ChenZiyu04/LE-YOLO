@@ -17,8 +17,4 @@ This repository contains the code and data associated with the paper "LE-YOLO:Ta
     - `leyolo_cbam.yaml`: The main script to train the model.
     - `train_val_split.py`: Calculates metrics and generates plots.
 
-## 4. Requirements 
-To run this project, you need to install the following libraries:
-```bash
-pip install -r requirements.txt
 
