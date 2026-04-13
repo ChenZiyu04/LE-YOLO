@@ -4,7 +4,7 @@ This repository contains the official implementation and data associated with th
 
 The model integrates a task-driven curve enhancement module (based on Zero-DCE++) with an attention-guided GhostNet backbone to optimize object detection in low-light conditions.
 
-Zenodo Repository: [https://doi.org/10.5281/zenodo.19034332]((https://doi.org/10.5281/zenodo.19547915))
+Zenodo Repository: [https://doi.org/10.5281/zenodo.19034332](https://doi.org/10.5281/zenodo.19547915)
 
 ### 2. Dataset Information
 The research utilizes two primary low-light datasets:
