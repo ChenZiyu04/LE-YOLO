@@ -21,6 +21,8 @@ Config: Defined in exdark.yaml and final_split_base.yaml.
 
     - Description: A specialized dataset for face detection in low-light environments.
 
+    - Source: https://github.com/dataset-ninja/dark-face
+
     - Classes: Single class: "face".
 
     - Config: Defined in final_darkface.yaml.
