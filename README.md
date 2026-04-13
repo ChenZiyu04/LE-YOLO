@@ -21,7 +21,7 @@ Config: Defined in exdark.yaml and final_split_base.yaml.
 
     - Description: A specialized dataset for face detection in low-light environments.
 
-    - Source: https://github.com/dataset-ninja/dark-face
+    - Source: https://flyywh.github.io/CVPRW2019LowLight
 
     - Classes: Single class: "face".
 
